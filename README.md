@@ -2,7 +2,7 @@
 
 **A hypothetical study from the German Naval Staff's own war diary.** On 16 July 1942 the German Naval Staff recorded, "in a very restricted circle", that at Hitler's request Göring was preparing a raid on New York by two Blohm & Voss BV 222 flying boats, to be refuelled at sea by type IXc U-boats. On 17 July the procedure was set down: two bases at sea, refuelling by hose, take-off at dusk, not before 10 September. On 28 July the Luftwaffe's General Staff declined. The study follows the wish from Göring's speech of 1938 and Hitler's Azores plans of 1940–41 to the war diary of July 1942; it reads the Nazi leadership's antisemitic picture of New York from their own documents, without claiming it as the order's motive; and it follows what the file did not count: the city of 1942 and the dead of the fear of 1945.
 
-**Live:** https://two-flying-boats-1942.netlify.app/
+**Live:** https://two-flying-boats-1942.netlify.app/ · **On itch.io:** https://leofassb.itch.io/two-flying-boats-1942
 
 Read it as a dossier, or take the Naval Staff's seat and decide where the file decides; a model then runs the raid with the file's figures and named assumptions. Third in a series with [Iron Hammer, 1945](https://iron-hammer-1945.netlify.app/) and [Dragon's Lair, 1944–45](https://dragons-lair-1944-45.netlify.app/).
 
