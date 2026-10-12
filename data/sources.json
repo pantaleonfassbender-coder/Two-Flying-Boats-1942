@@ -1,0 +1,198 @@
+{
+ "skl": {
+  "short": "War Diary of the German Naval Staff, July 1942 (ONI translation)",
+  "cite": "War Diary of the German Naval Staff, Operations Division, Part A, vol. 35: July 1942. Translated by the Office of Naval Intelligence, US Navy, Washington 1948 (from Kriegstagebuch der Seekriegsleitung, Teil A; originals now in the Bundesarchiv-Militärarchiv, RM 7). Entries of 16 July (pp. 224–225), 17 July (pp. 240–241) and 28 July 1942 (pp. 350–351). Transcribed here.",
+  "url": "https://archive.org/details/wardiarygermann351942germ",
+  "status": "US Government translation, public domain. Read at the page images. The German original has not been seen.",
+  "read": "checked"
+ },
+ "r140": {
+  "short": "Göring at Carinhall, 8 July 1938 (R-140)",
+  "cite": "Nuremberg document R-140: Major Conrath to General Udet, 11 July 1938, with the shorthand record of Göring's conference with the aircraft industry at Carinhall on 8 July 1938. Partial translation in Nazi Conspiracy and Aggression, vol. VIII, pp. 220–235.",
+  "url": "https://archive.org/details/naziconspiracyag08unit",
+  "status": "US Government publication, public domain. Read at the page image.",
+  "read": "checked"
+ },
+ "nca": {
+  "short": "Nazi Conspiracy and Aggression (1946)",
+  "cite": "Office of United States Chief of Counsel for Prosecution of Axis Criminality, Nazi Conspiracy and Aggression, 8 vols. and 2 supplements, Washington: US Government Printing Office, 1946–48. The English translations of the documents put in evidence at Nuremberg.",
+  "url": "https://archive.org/details/naziconspiracyag01unit",
+  "status": "US Government publication, public domain.",
+  "read": "checked"
+ },
+ "ps1517": {
+  "short": "Rosenberg on his talk with Hitler, 14 December 1941 (1517-PS)",
+  "cite": "Nuremberg document 1517-PS: Rosenberg, memorandum about discussions with the Fuehrer on 14 December 1941. Nazi Conspiracy and Aggression, vol. IV, pp. 55–56.",
+  "url": "https://archive.org/details/naziconspiracyag04unit",
+  "status": "US Government translation, public domain. Read at the page images.",
+  "read": "checked"
+ },
+ "ps001": {
+  "short": "Rosenberg to Hitler, 18 December 1941 (001-PS)",
+  "cite": "Nuremberg document 001-PS: Rosenberg, documentary memorandum for the Fuehrer concerning Jewish possessions in France, 18 December 1941. Nazi Conspiracy and Aggression, vol. III, p. 1.",
+  "url": "https://archive.org/details/naziconspiracyag03unit",
+  "status": "US Government translation, public domain. Read at the page image.",
+  "read": "checked"
+ },
+ "ps2663": {
+  "short": "Hitler's Reichstag speech, 30 January 1939 (2663-PS)",
+  "cite": "Nuremberg document 2663-PS: Völkischer Beobachter, Munich edition, 1 February 1939, Hitler's speech to the Reichstag of 30 January 1939 (partial translation). Nazi Conspiracy and Aggression, vol. V, p. 367.",
+  "url": "https://archive.org/details/naziconspiracyag05unit",
+  "status": "US Government translation, public domain. Read at the page image.",
+  "read": "checked"
+ },
+ "ps2441": {
+  "short": "The pamphlet “Die Juden in USA” (2441-PS)",
+  "cite": "Nuremberg document 2441-PS: extracts from an American witness's account of education in Nazi Germany, describing the party pamphlet Die Juden in USA (Zentralverlag der NSDAP, Berlin) and its cover photograph of Mayor La Guardia. Nazi Conspiracy and Aggression, vol. V, p. 170. Summarised here; the account was first published as a book in 1941 and is not quoted.",
+  "url": "https://archive.org/details/naziconspiracyag05unit",
+  "status": "Read in the printed text; summarised, not quoted.",
+  "read": "checked"
+ },
+ "goebbels": {
+  "short": "Hitler to the party leaders, 12 December 1941 (Goebbels's diary)",
+  "cite": "Joseph Goebbels, diary entry for 13 December 1941, in: Die Tagebücher von Joseph Goebbels, ed. Elke Fröhlich, Part II, vol. 2, Munich 1996; discussed by Christian Gerlach, “The Wannsee Conference, the Fate of German Jews, and Hitler's Decision in Principle to Exterminate All European Jews”, Journal of Modern History 70 (1998), pp. 759–812.",
+  "url": "",
+  "status": "Referred to only; not quoted.",
+  "read": "referred"
+ },
+ "fc": {
+  "short": "Fuehrer Conferences on Naval Affairs, 1940–41",
+  "cite": "“Fuehrer Conferences on Naval Affairs, 1939–1945”, Brassey's Naval Annual 1948 (London 1948): the Admiralty's translation of the records of the Commander in Chief of the Navy's conferences with Hitler. Conferences of 14 November 1940 (pp. 152–153) and 22 May 1941 (p. 197).",
+  "url": "https://archive.org/details/brasseys-naval-annual-1948-ocr",
+  "status": "Official translation; Crown copyright expired. Read in the text of the scan.",
+  "read": "checked"
+ },
+ "fdr": {
+  "short": "Roosevelt's broadcast of 27 May 1941",
+  "cite": "Franklin D. Roosevelt, radio address announcing an unlimited national emergency, 27 May 1941, in: The Public Papers and Addresses of Franklin D. Roosevelt, 1941 volume.",
+  "url": "",
+  "status": "Referred to only; not yet checked against the printed text.",
+  "read": "referred"
+ },
+ "poster": {
+  "short": "US Navy recognition poster “B.V.-222”, 1944",
+  "cite": "US Navy, Bureau of Aeronautics, aircraft recognition poster “Blohm und Voss B.V.-222”, February 1944.",
+  "url": "https://archive.org/details/ARP-097",
+  "status": "US Government work; Public Domain Mark. Figures read from the poster.",
+  "read": "checked"
+ },
+ "bv222lit": {
+  "short": "The BV 222 (secondary)",
+  "cite": "Published type histories of the Blohm & Voss BV 222 (first flight 7 September 1940; thirteen completed; transport flights to North Africa in 1942 with Lufttransportstaffel See 222; diesel-engined C series from 1943), summarised from the aviation literature and the Wikipedia articles on the type.",
+  "url": "https://en.wikipedia.org/wiki/Blohm_%26_Voss_BV_222",
+  "status": "Secondary; figures used only for orientation and named as such.",
+  "read": "research"
+ },
+ "laconia": {
+  "short": "The Capetown group and the Laconia, September 1942",
+  "cite": "Group “Eisbär” (U-68, U-156, U-172, U-504 and the supply boat U-459), sailed from western France in August 1942; U-156 sank the troopship Laconia on 12 September 1942. Fates and losses after uboat.net and the standard U-boat histories.",
+  "url": "https://uboat.net/boats/u156.htm",
+  "status": "Secondary; the figure for the dead is approximate.",
+  "read": "research"
+ },
+ "uboatlit": {
+  "short": "U-boats and supply (secondary)",
+  "cite": "On the type IXc and the type XIV supply boats: uboat.net and the standard histories of the U-boat war (Blair, Hitler's U-Boat War, 2 vols., 1996–98).",
+  "url": "https://uboat.net/types/",
+  "status": "Secondary; summarised.",
+  "read": "research"
+ },
+ "moon": {
+  "short": "Moon phases, 1942",
+  "cite": "New moon on about 10 September and 10 October 1942, computed from the mean lunation (± 1 day).",
+  "url": "",
+  "status": "Computed by the study.",
+  "read": "checked"
+ },
+ "bdu": {
+  "short": "War diary of the U-boat command, July–August 1942",
+  "cite": "Kriegstagebuch des Befehlshabers der Unterseeboote (BdU), July and August 1942 (PG 30309–30310), in the English translation on uboatarchive.net. The raid on New York is not mentioned.",
+  "url": "http://www.uboatarchive.net/BDU/BDUKTB.htm",
+  "status": "Translation of captured records. Searched for the plan; no entry found.",
+  "read": "checked"
+ },
+ "amerikabomber": {
+  "short": "The Luftwaffe's long-range plan of spring 1942 (secondary)",
+  "cite": "A study of the Luftwaffe staff of 27 April / 12 May 1942 on raids against twenty-one targets in North America, found by Olaf Groehler in the former military archive at Potsdam, and its reported abandonment on 21 August 1942. Known to this study only from the secondary literature.",
+  "url": "",
+  "status": "Lead, not seen. The original and its call number have not been found.",
+  "read": "lead"
+ },
+ "census": {
+  "short": "US census of 1940",
+  "cite": "Sixteenth Census of the United States, 1940: Population. New York City, 7,454,995 inhabitants.",
+  "url": "",
+  "status": "US Government publication.",
+  "read": "referred"
+ },
+ "ajyb": {
+  "short": "American Jewish Year Book",
+  "cite": "Estimates of the Jewish population of New York City around 1940 in the American Jewish Year Book (about two million).",
+  "url": "",
+  "status": "Referred to; the figure is an estimate.",
+  "read": "referred"
+ },
+ "dimout": {
+  "short": "The East Coast dim-out, 1942",
+  "cite": "Eastern Defense Command and First Army, Public Proclamation No. 1 (May 1942), on the dim-out of the coastal zone, and the US Army's official history of the defence of the Western Hemisphere.",
+  "url": "",
+  "status": "Research pass; the proclamation's text not yet checked.",
+  "read": "research"
+ },
+ "owi": {
+  "short": "Marjory Collins's photographs of New York, 1942",
+  "cite": "Farm Security Administration / Office of War Information collection, Library of Congress, Prints and Photographs Division: photographs by Marjory Collins, New York, August–December 1942.",
+  "url": "https://www.loc.gov/pictures/collection/fsa/",
+  "status": "US Government work, public domain.",
+  "read": "checked"
+ },
+ "ju390": {
+  "short": "The Ju 390 legend",
+  "cite": "The story of a Ju 390 flight to within some 20 km of the US coast in 1944, traced to a British interrogation report of 1944 and repeated from the 1950s; rejected by the type's test pilot, Hans Pancherz, in 1980, and by later research.",
+  "url": "",
+  "status": "Secondary; the interrogation report has not been seen.",
+  "read": "referred"
+ },
+ "elster": {
+  "short": "Operation Elster, 1944",
+  "cite": "The landing of the agents William Colepaugh and Erich Gimpel from U-1230 at Hancock Point, Maine, on 29 November 1944, and their arrest in New York in December 1944; FBI files and the secondary literature.",
+  "url": "https://vault.fbi.gov/",
+  "status": "Secondary; the FBI files have not been read for this study.",
+  "read": "research"
+ },
+ "ingersoll": {
+  "short": "Admiral Ingersoll's warning, 8 January 1945",
+  "cite": "Press conference of Vice Admiral Jonas H. Ingersoll, Commander in Chief, Atlantic Fleet, 8 January 1945, warning of possible robot bomb attacks on the East Coast, as reported in the press of 9 January 1945.",
+  "url": "",
+  "status": "Secondary; the press reports not yet checked.",
+  "read": "research"
+ },
+ "teardrop": {
+  "short": "Operation Teardrop, April–May 1945",
+  "cite": "The US Navy's barrier operations against the U-boat group “Seewolf”, April–May 1945: U-1235 and U-880 (15/16 April), U-518 (22 April), U-546 (24 April) and U-881 (6 May) sunk; USS Frederick C. Davis sunk 24 April 1945. After Morison, History of United States Naval Operations in World War II, vol. X, and uboat.net.",
+  "url": "https://uboat.net/",
+  "status": "Secondary; the loss figures for the Frederick C. Davis differ between sources (113–115).",
+  "read": "research"
+ },
+ "u546": {
+  "short": "Interrogation of the survivors of U-546",
+  "cite": "Report on the interrogation of survivors from U-546, sunk 24 April 1945 (US Navy, Op-16-Z), draft text on uboatarchive.net (U-546, “Draft Interrogation Report”), with the reports of the ships involved.",
+  "url": "http://www.uboatarchive.net/",
+  "status": "US Government record. Read in a research pass, not yet checked by the editor.",
+  "read": "research"
+ },
+ "ironhammer": {
+  "short": "Iron Hammer, 1945",
+  "cite": "The first study of this series: the Luftwaffe's plan to attack Soviet power stations with Mistel composite aircraft, 1945.",
+  "url": "https://iron-hammer-1945.netlify.app/",
+  "status": "Companion study.",
+  "read": "checked"
+ },
+ "dragonslair": {
+  "short": "Dragon's Lair, 1944–45",
+  "cite": "The second study of this series: the planned Mistel attack on the Home Fleet at Scapa Flow.",
+  "url": "https://dragons-lair-1944-45.netlify.app/",
+  "status": "Companion study.",
+  "read": "checked"
+ }
+}

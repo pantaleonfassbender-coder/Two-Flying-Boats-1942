@@ -1,0 +1,63 @@
+{
+  "target": { "name": "New York", "lat": 40.71, "lon": -74.0 },
+  "home": { "id": "biscarrosse", "name": "Biscarrosse (Lake Biscarrosse, western France)", "lat": 44.43, "lon": -1.18,
+    "note": "The file says only \"in the west\". Biscarrosse was the BV 222's Atlantic base from 1943; in July 1942 the few BV 222s were flying supplies across the Mediterranean. The study's choice, named as an assumption." },
+  "base1": [
+    { "id": "ny1000", "name": "Base 1, read as 1,000 km from New York", "lat": 39.0, "lon": -62.5,
+      "note": "The plain reading of \"1,000 km off the enemy coast\" with New York as the coast. 1,000 km to New York, but only about 560 km to Nova Scotia and 770 km to Bermuda, where US patrol aircraft were based." },
+    { "id": "coast1000", "name": "Base 1, read as 1,000 km from any coast", "lat": 35.5, "lon": -55.5,
+      "note": "The cautious reading: 1,000 km from the nearest enemy coast. Safe from shore-based patrols, but 1,715 km from New York, about six hours' flight in the dark, and some 5,400 km from Base 1 via New York to Base 2, close to the limit of the aircraft's range." },
+    { "id": "ny600", "name": "Base 1, pushed in to 600 km", "lat": 41.0, "lon": -66.9,
+      "note": "Not in the file. A shorter night leg, but a refuelling U-boat and a flying boat lying on the surface inside the range of the patrols from New England and Nova Scotia." }
+  ],
+  "base2": { "id": "azores", "name": "Base 2, north of the Azores", "lat": 42.0, "lon": -29.0,
+    "note": "The entry of 17 July places it \"in the area north of the Azores\"; that of 16 July \"3,000 km from the enemy coast\". The two do not quite fit: north of the Azores lies about 3,700 km from New York and 2,000 km from Newfoundland. The study takes the later, more specific entry." },
+  "windows": [
+    { "id": "sep", "label": "As soon as ready: the new-moon nights after 10 September 1942", "date": "mid-September 1942", "moon": "new moon about 10 September (mean lunation, ± 1 day)", "night": 11.5, "sea": 0.55, "seaNote": "Share of days on which a flying boat can land beside a U-boat and take fuel by hose in the western North Atlantic in mid-September: an assumption, after the usual sea states of the season." },
+    { "id": "oct", "label": "One month later: the new-moon nights after 10 October 1942", "date": "mid-October 1942", "moon": "new moon about 10 October (mean lunation, ± 1 day)", "night": 12.5, "sea": 0.4, "seaNote": "The autumn gales begin; fewer days calm enough for landing and refuelling at sea, but a longer night: an assumption." }
+  ],
+  "aircraft": {
+    "cruise": 290, "load": 1.0, "range": 6000,
+    "note": "Cruising speed about 290 km/h with a heavy load, after the published figures for the BV 222 (300 km/h economical cruise for the later diesel version at sea level). The file gives no bomb load and speaks only of an \"extra load\" at the start; the study assumes about one tonne of bombs per aircraft, named as an assumption. Crew of each BV 222: about eleven. Range on internal fuel with the bomb load: about 6,000 km, an assumption after the published figures (6,100 km for the later version). From Base 1 the aircraft has to reach New York and then Base 2; with less than 1,000 km to spare, the chance of running dry before Base 2 rises to one in two at zero margin."
+  },
+  "costs": { "tonnage": [60000, 80000], "note": "The Naval Staff's own price: two U-boat missions, \"during which 60,000 to 80,000 GRT of enemy shipping could be sunk\" (16 July 1942)." },
+  "assumptions": {
+    "uboatOnStation": 0.9,
+    "weatherHolds": 0.75,
+    "findBase1": 0.85,
+    "refuel": 0.8,
+    "patrolSpot": 0.15,
+    "detectApproach": 0.35,
+    "interceptNight": 0.12,
+    "interceptDay": 0.25,
+    "findCity": 0.85,
+    "aaLoss": 0.06,
+    "findBase2": 0.8,
+    "refuel2": 0.75,
+    "crewRescue": 0.8,
+    "uboatLostAfter": 0.08
+  },
+  "assumptionNotes": {
+    "uboatOnStation": "A type IXc tanker boat reaches its rendezvous on time. The western Atlantic was still dangerous ground for U-boats in late 1942, but most crossings succeeded.",
+    "weatherHolds": "The go-ahead is given from Base 1 when the sea there is calm; the weather still has to hold for the 16 to 18 hours the flying boat needs to get there.",
+    "findBase1": "The flying boat finds a U-boat on the open ocean after some 4,500 to 5,000 km, by dead reckoning and a radio bearing.",
+    "refuel": "Fuel is taken over by two hoses in 1½ to 2 hours (the file's figure) without damage to boat or aircraft. A U-boat carries diesel oil; the BV 222s of 1942 had petrol engines, so the aviation fuel would have had to be carried specially.",
+    "patrolSpot": "Base 1 within the range of shore-based patrols (600 km reading): the boat or the flying boat on the surface is seen and attacked before the refuelling is done. Halved for the 1,000 km reading, nil for the cautious reading.",
+    "detectApproach": "The approaching flying boat is picked up by coastal radar, a patrol or a listening post on the way in.",
+    "interceptNight": "Once detected, it is caught by a fighter at night. Night fighters were few on the East Coast in 1942.",
+    "interceptDay": "Caught in daylight, when the night was too short to reach New York and leave the 800 km coastal patrol zone again: it is found by a patrol aircraft and brought down. Applies only when the flight cannot be made in one night; a slow six-engined flying boat in daylight near the coast had little chance.",
+    "findCity": "The crew finds New York at night under the dim-out in force since May 1942. The city is large and the coast unmistakable, but there were no lights to steer by.",
+    "aaLoss": "Shot down by the anti-aircraft guns round New York harbour.",
+    "findBase2": "On the way back, the flying boat finds the second U-boat north of the Azores.",
+    "refuel2": "The second refuelling succeeds; otherwise the aircraft is scuttled beside the U-boat.",
+    "crewRescue": "If the aircraft is lost at sea near a U-boat, its crew is taken aboard. Far from one, they are lost.",
+    "uboatLostAfter": "A tanker boat that has called attention to itself is hunted down afterwards."
+  },
+  "context": {
+    "nyPopulation": 7454995,
+    "nyPopulationNote": "New York City at the census of 1940 (US Bureau of the Census).",
+    "nyJewishNote": "About two million of them Jewish, by the estimates of the American Jewish Year Book: the largest Jewish community in the world, and the city to which tens of thousands of refugees from Germany had fled since 1933.",
+    "cologne": "In the night of 30/31 May 1942 the RAF dropped about 1,455 tons of bombs on Cologne in the first thousand-bomber raid.",
+    "teardrop": "In April and May 1945 the US Navy sank five U-boats in the hunt for submarines feared to carry rockets against New York: 241 German sailors died, 33 survived. The destroyer escort Frederick C. Davis was sunk with some 115 of her crew. None of the boats carried rockets."
+  }
+}

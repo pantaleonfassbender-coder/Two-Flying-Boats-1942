@@ -1,0 +1,5 @@
+.claude/
+*.zip
+tools/src/
+tools/plates_src/
+itch/build/

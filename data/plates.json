@@ -1,0 +1,65 @@
+{
+ "credit": "Plates: a US Navy recognition poster (archive.org, Public Domain Mark), photographs of the US Navy and the US Army Air Forces, and photographs taken in New York in 1942 by Marjory Collins for the US Office of War Information (Library of Congress, Prints and Photographs Division). All are works of the US Government and in the public domain; each is named with its original. Resized; the Collins negatives are shown with their file numbers.",
+ "plates": [
+  {
+   "id": "poster",
+   "titel": "The BV 222, as the US Navy taught its crews to recognise it",
+   "caption": "Recognition poster “Blohm und Voss B.V.-222” of the US Navy's Bureau of Aeronautics, February 1944: a six-engined flying boat with a span of 150 feet (46 m). By then the type was flying long-range reconnaissance over the Atlantic from western France.",
+   "source": "US Navy, Bureau of Aeronautics, aircraft recognition poster, February 1944; archive.org ARP-097 (Public Domain Mark)."
+  },
+  {
+   "id": "trondheim",
+   "titel": "A BV 222 in American hands, Trondheim, August 1945",
+   "caption": "BV 222 V2, captured by British forces at Bodø in May 1945, being tested by the US Navy at Trondheim on 27 August 1945 before it was flown to the United States. The second prototype was one of the aircraft that existed in July 1942.",
+   "source": "Official US Navy photograph PTR 29305, 27 August 1945; Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "hamburg",
+   "titel": "Unfinished BV 222 C, Hamburg, July 1945",
+   "caption": "An unfinished BV 222 of the later, diesel-engined C series in the hangar of the Hamburger Flugzeugbau at Finkenwerder. Only thirteen BV 222s were completed; the last airframes were abandoned when production was turned over to fighters.",
+   "source": "US Army Air Forces photograph by Cort W. Best, 342-FH-3A19982-58351AC, July 1945; Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "u505",
+   "titel": "A type IXc U-boat: U-505, 4 June 1944",
+   "caption": "U-505, a boat of the type the Naval Staff proposed as a tanker for the flying boats, after her capture by an American hunter-killer group off West Africa. A boarding party from the destroyer escort Pillsbury secures a tow line; the US flag flies from the periscope.",
+   "source": "US Navy photograph 80-G-49172, 4 June 1944; Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "dimout",
+   "titel": "Times Square in the dim-out, September 1942",
+   "caption": "New York at night in the month the raid was to be flown: Times Square under the wartime dim-out, with the advertising lights switched off. The coastal dim-out was meant to stop ships being silhouetted against the shore for the U-boats.",
+   "source": "Marjory Collins, Office of War Information, September 1942; Library of Congress, digital ID fsa.8d22787; Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "warden",
+   "titel": "An air raid warden in Greenwich Village, December 1942",
+   "caption": "An Italian-American shoemaker on duty as an air raid warden at sector headquarters on Waverly Place, Manhattan.",
+   "source": "Marjory Collins, Office of War Information, December 1942; Library of Congress, digital ID fsa.8d23887; Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "lowereast",
+   "titel": "On the steps of a synagogue, New York, 1942",
+   "caption": "Jewish boys sitting on the steps of a synagogue at night, from Marjory Collins's series on Jewish New York and the Lower East Side, late summer 1942, when the raid was being prepared. The file does not count them.",
+   "source": "Marjory Collins, Office of War Information, August 1942 (date as catalogued, uncertain); Library of Congress, digital ID fsa.8d21967; Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "shopwindow",
+   "titel": "Window of a Jewish religious shop, Broome Street, 1942",
+   "caption": "Prayer shawls and books in a shop window on Broome Street on the Lower East Side.",
+   "source": "Marjory Collins, Office of War Information, August 1942 (date as catalogued, uncertain); Library of Congress, digital ID fsa.8d21921; Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "fcdavis",
+   "titel": "USS Frederick C. Davis",
+   "caption": "The destroyer escort Frederick C. Davis, about 1943. On 24 April 1945, during Operation Teardrop, she was torpedoed by U-546 and sank with some 115 of her crew.",
+   "source": "Official US Navy photograph NH 91425, Naval History and Heritage Command; Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "u546",
+   "titel": "Survivors of U-546, 24 April 1945",
+   "caption": "A life raft with survivors of U-546 among the American destroyer escorts that had sunk her a few hours after she torpedoed the Frederick C. Davis. Thirty-three of her crew survived; they were questioned about rockets their boat did not carry.",
+   "source": "US Navy photograph, taken from USS Hubbard (DE-211), 24 April 1945; Wikimedia Commons (public domain)."
+  }
+ ]
+}

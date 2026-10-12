@@ -1,0 +1,314 @@
+{
+ "title": "Two Flying Boats, 1942",
+ "chapters": [
+  {
+   "id": "arrogant",
+   "n": 1,
+   "date": "8 July 1938",
+   "part": "I. The wish, 1938–41",
+   "title": "“The arrogant people over there”",
+   "lede": "Four years before the Naval Staff discussed hose lines and U-boats, Hermann Göring told the German aircraft industry what he still lacked: a bomber that could fly to New York and back.",
+   "body": [
+    "On 8 July 1938 Göring, Commander in Chief of the Luftwaffe, received the heads of the German aircraft industry at Carinhall, his country house north of Berlin. A shorthand record of his speech was sent to Ernst Udet, head of the Luftwaffe's technical office, three days later. It came into the hands of the American prosecutors after the war and was put in evidence at Nuremberg as document R-140.",
+    "Most of the speech is about production: engines, the shortage of workers, the coming crisis over Czechoslovakia. Near the end Göring turned to what he called his private wish and dream. He wanted a weapon that would be to the next war what the needle gun had been to the war of 1870–71. He listed what he did not have: a stratosphere bomber, rocket motors, and “the bomber which flies with 5 tons of explosives as far as New York and back”.",
+    "The Luftwaffe of 1938 had nothing of the kind. Its bombers were twin-engined aircraft built for a war in Europe. The programme for a four-engined long-range bomber had been stopped in 1937, and the first prototype of its successor, the Heinkel He 177, did not fly until November 1939. New York in this speech is not a target. It is the measure of a range that does not exist, and of a grudge.",
+    "The grudge is aimed at “the arrogant people over there”. Göring does not say who they are. In the summer of 1938 American newspapers and politicians were among the loudest critics of the Nazi state's treatment of the Jews. Two days before the speech, at Roosevelt's invitation, delegates of thirty-two countries had met at Évian to discuss the refugees from Germany and Austria. The speech does not mention Évian, and this study does not claim that Göring had it in mind. It notes only the week in which a bomb over New York first appears in the German record: as a wish to shut a mouth."
+   ],
+   "quotes": [
+    {
+     "text": "I still am missing entirely the bomber which flies with 5 tons of explosives as far as New York and back. I should be extremely happy to have such a bomber so that I would at last be able to stop somewhat the mouth of the arrogant people over there.",
+     "cite": { "href": "#/file/g235", "label": "Göring to the aircraft industry, Carinhall, 8 July 1938. Nuremberg document R-140, Nazi Conspiracy and Aggression VIII, p. 235 (US translation)" }
+    }
+   ],
+   "facsimiles": [
+    { "src": "assets/file/g235-newyork.jpg", "href": "#/file/g235", "caption": "R-140, p. 235: “… as far as New York and back.”" }
+   ],
+   "plates": [],
+   "data": [],
+   "sources": ["r140", "nca"]
+  },
+  {
+   "id": "azores",
+   "n": 2,
+   "date": "November 1940 – May 1941",
+   "part": "I. The wish, 1938–41",
+   "title": "“The only facility”",
+   "lede": "Twice, in 1940 and 1941, Hitler told the commander of his navy that he wanted the Azores, so that long-range bombers could strike at America from there. Twice the navy said no, for the same reason it would give in 1942.",
+   "body": [
+    "The records of Grand Admiral Raeder's conferences with Hitler were captured in 1945 and translated for the British Admiralty and the US Navy; they were published in 1947–48 as the Fuehrer Conferences on Naval Affairs. On 14 November 1940, with the United States not yet at war, Hitler explained why the Portuguese islands in the middle of the Atlantic mattered to him: from there a bomber of the new Messerschmitt type, with a range of 12,600 km, could attack America. America would then have to build up its own air defences instead of helping Britain.",
+    "The aircraft he meant was the Me 264, which existed only on paper; its first prototype flew in December 1942. Raeder answered that the islands might be taken with luck, but could not be held or supplied against the British, perhaps with American help, and that U-boats would have to be used to defend them. “In this way submarine warfare would be adversely affected, which must not occur under any circumstances.”",
+    "On 22 May 1941, at the Berghof, the same exchange was repeated. The navy rejected the occupation: all its forces, U-boats included, would have to be withdrawn from the Battle of the Atlantic, “this is intolerable”. Hitler was “still in favour of occupying the Azores, in order to be able to operate long-range bombers from there against the U.S.A.” Five days later, in a broadcast of 27 May 1941, Roosevelt named the Azores among the Atlantic islands whose occupation by Germany would threaten the safety of the Americas.",
+    "These two entries set the pattern of the whole file. The wish comes from the top; the navy counts what it would cost in U-boats taken from the war on shipping. In 1942 the U-boats will be needed not to hold an island but as floating petrol stations, and the price will be stated in tons of shipping."
+   ],
+   "quotes": [
+    {
+     "text": "The Fuehrer believes that the Azores would afford him the only facility for attacking America, if she should enter the war, with a modern plane of the Messerschmidt type, which has a range of 12,600 km. Thereby America would be forced to build up her own anti-aircraft defence, which is still completely lacking, instead of assisting Britain.",
+     "cite": { "href": "#/sources", "label": "Conference of the C.-in-C., Navy, with the Fuehrer, 14 November 1940. Fuehrer Conferences on Naval Affairs, Brassey's Naval Annual 1948, pp. 152–153" }
+    },
+    {
+     "text": "The Fuehrer is still in favour of occupying the Azores, in order to be able to operate long-range bombers from there against the U.S.A. The occasion for this may arise by autumn.",
+     "cite": { "href": "#/sources", "label": "Conference at the Berghof, 22 May 1941. Fuehrer Conferences on Naval Affairs, p. 197" }
+    }
+   ],
+   "facsimiles": [],
+   "plates": [],
+   "data": ["map"],
+   "sources": ["fc", "fdr"]
+  },
+  {
+   "id": "city",
+   "n": 3,
+   "date": "January 1939 – July 1942",
+   "part": "I. The wish, 1938–41",
+   "title": "The city in their minds",
+   "lede": "In the language of the Nazi leadership, “New York” was more than a city. It stood for “the Jews” who, they claimed, had made the war, and who would therefore pay for it.",
+   "body": [
+    "This chapter does not describe the New York of 1942; chapter 9 does. It describes the New York that existed in the heads of the men who ordered the raid, and it is built only from their own papers, as they were put in evidence at Nuremberg.",
+    "On 30 January 1939 Hitler told the Reichstag that if “the international Jewish financiers” plunged the nations into another world war, the result would be “the annihilation of the Jewish race in Europe”. He returned to this “prophecy” again and again during the war. When Germany declared war on the United States on 11 December 1941, the war he had blamed on the Jews in advance had, in his eyes, arrived. According to Goebbels's diary, he told the party's leaders the next day that the annihilation of the Jews must be its necessary consequence.",
+    "Two days later, on 14 December 1941, Alfred Rosenberg, Reich Minister for the occupied eastern territories, went over a speech he had drafted for the Berlin Sportpalast with Hitler. His own note of the meeting records that its “comments about the New York Jews” might have to be changed, and that he would no longer speak of the extermination of the Jews in public. Hitler agreed, and said that they had burdened Germany with the war and brought the destruction; it was no wonder if the results struck them first. On 18 December Rosenberg proposed to Hitler that, in reprisal for attacks on German soldiers in France, a hundred Jewish bankers and lawyers should be shot instead of a hundred Frenchmen, because “it is the Jews in London and New York who incite the French communists”. Jews in Paris were to pay for Jews in New York.",
+    "Party propaganda gave the same idea a face. A pamphlet of the party's central publishing house, Die Juden in USA, collected snapshots of prominent Americans as supposed proof of Jewish rule over the country; its cover showed Fiorello La Guardia, the Mayor of New York, whose mother was Jewish. An American witness saw it used in a classroom in Hamburg and gave it to the Nuremberg prosecutors (document 2441-PS).",
+    "Nothing in the Naval Staff's war diary says why Hitler wanted New York bombed in July 1942, and this study does not claim that the order was given for these reasons. What the documents show is the meaning the city carried for the men who wanted it hit. In the same weeks, on 19 July 1942, Himmler ordered the “resettlement” of the Jews of the Generalgouvernement to be completed by the end of the year, and on 22 July the deportations from the Warsaw ghetto to Treblinka began. Had two flying boats dropped a few tons of bombs on New York that September, German propaganda had the words ready: the war had come home to those who had made it."
+   ],
+   "quotes": [
+    {
+     "text": "I remarked on the Jewish question that the comments about the New York Jews must perhaps be changed somewhat after the conclusion (of matters in the East). I took the standpoint, not to speak of the extermination [Ausrottung] of the Jews. The Fuehrer affirmed this and said that they had burdened the war upon us and that they had brought the destruction; it is no wonder if the results would strike them first.",
+     "cite": { "href": "#/file/r55", "label": "Rosenberg, memorandum on his discussion with Hitler, 14 December 1941. Nuremberg document 1517-PS, Nazi Conspiracy and Aggression IV, pp. 55–56" }
+    },
+    {
+     "text": "It is the Jews in London and New York who incite the French communists to commit acts of violence, and it seems only fair that the members of this race should pay for this.",
+     "cite": { "href": "#/file/a1", "label": "Rosenberg to Hitler, 18 December 1941. Nuremberg document 001-PS, Nazi Conspiracy and Aggression III, p. 1" }
+    }
+   ],
+   "facsimiles": [
+    { "src": "assets/file/r55-newyorkjews.jpg", "href": "#/file/r55", "caption": "1517-PS: “… the comments about the New York Jews …”" },
+    { "src": "assets/file/p367-prophecy.jpg", "href": "#/file/p367", "caption": "2663-PS: the “prophecy” of 30 January 1939." }
+   ],
+   "plates": [],
+   "data": [],
+   "sources": ["ps1517", "ps001", "ps2663", "ps2441", "goebbels"]
+  },
+  {
+   "id": "request",
+   "n": 4,
+   "date": "16 July 1942",
+   "part": "II. The raid, July 1942",
+   "title": "“At the Fuehrer's request”",
+   "lede": "On 16 July 1942, in a very restricted circle, the head of the Naval Staff's operations branch reported that Göring was preparing a raid on New York by two flying boats, and wanted the navy's U-boats to fuel them.",
+   "body": [
+    "The war diary of the German Naval Staff (Seekriegsleitung) was kept day by day in Berlin. It was captured in 1945 and translated in full by the US Office of Naval Intelligence; the translation is the text this study reads. The entry for 16 July 1942 is the core of the file.",
+    "The plan used the largest aircraft the Luftwaffe had: the Blohm & Voss BV 222, a six-engined flying boat with a span of 46 metres, built as an airliner for the Atlantic and taken over by the Luftwaffe. In July 1942 only a handful existed; they were flying supplies across the Mediterranean to Rommel's army. No German aircraft could fly from France to New York and back. The BV 222 could, if it was refuelled on the way, and since it landed on water, it could be refuelled at sea.",
+    "A surface supply ship was out of the question: it would not survive in the western Atlantic. That left the U-boats. The large type IXc boats might carry fuel and ammunition for the flying boats. Admiral Dönitz, commanding the U-boats, thought the operation technically feasible. Then the Naval Staff did what the navy had done in 1940 and 1941: it named the price. Two boats would be lost to the war on shipping for one mission each.",
+    "The plan called for two bases at sea, one 1,000 and one 3,000 km from the enemy coast, and the boats could be converted from 8 August and sail at the end of the month. The diary records no objection, and the next day's entry shows the Naval Staff's divisions working on the plan."
+   ],
+   "quotes": [
+    {
+     "text": "At the Fuehrer's request, the Commander in Chief, Air Force is preparing a raid on New York by two BV 222's. He is negotiating with the Naval Staff to secure its support of the operation. Using a surface vessel as a supply ship is out of the question. However, submarines of the type IXc might be able to supply the planes with fuel and ammunition. The Commanding Admiral, Submarines also considers the operation feasible from a technical standpoint.",
+     "cite": { "href": "#/file/k224", "label": "War Diary of the German Naval Staff, 16 July 1942, p. 224 (ONI translation, 1948)" }
+    }
+   ],
+   "facsimiles": [
+    { "src": "assets/file/k224-request.jpg", "href": "#/file/k224", "caption": "16 July 1942: “… a raid on New York by two BV 222's.”" }
+   ],
+   "plates": ["poster", "trondheim"],
+   "data": ["bv222"],
+   "decisions": [
+    {
+     "key": "naval",
+     "prompt": "Göring asks for the navy's support. What does the Naval Staff answer?",
+     "file": "support",
+     "options": [
+      { "value": "support", "label": "Support the raid", "detail": "Two type IXc boats are converted as tankers from 8 August. The price is two missions against shipping." },
+      { "value": "object", "label": "Object, and put the price to the Fuehrer's headquarters", "detail": "As in 1940 and 1941: the U-boats are needed for the war on shipping. The raid cannot be flown without them." }
+     ],
+     "fileNote": "The Naval Staff states the cost and goes along: on 17 July its operations and U-boat divisions are “participating in the planning and the execution of the project”."
+    }
+   ],
+   "sources": ["skl", "poster", "bv222lit"]
+  },
+  {
+   "id": "price",
+   "n": 5,
+   "date": "16 July 1942",
+   "part": "II. The raid, July 1942",
+   "title": "60,000 to 80,000 tons",
+   "lede": "The Naval Staff put the price of the raid in the only currency it used: tons of enemy shipping that would not be sunk.",
+   "body": [
+    "“The effect on submarine warfare would be equivalent to the cancellation of 2 missions during which 60,000 to 80,000 GRT of enemy shipping could be sunk.” The sentence is the navy's whole judgement of the plan. It does not ask what the raid would achieve over New York; it asks what it would cost at sea. Gross register tons measure a ship's volume, not its crew, and a sunk ship meant dead seamen. The file does not count them.",
+    "The boats were not idle. The type IXc boats in western France were to go to Cape Town. That group sailed in August 1942; one of its boats, U-156, sank the troopship Laconia off West Africa on 12 September, with Italian prisoners of war, British soldiers, women and children aboard. Some 1,600 people died. This is the kind of mission the raid would have replaced.",
+    "There was also a technical problem the diary does not mention. U-boats ran on diesel oil. The BV 222s of 1942 had petrol engines; only the later version had diesels. The petrol for the flying boats would have had to be carried in special tanks or containers in a boat built to fight, and passed through hoses at sea. The figure of one and a half to two hours for the refuelling, given the next day, suggests that someone had worked this out. How, the file does not say.",
+    "Why type IXc boats and not the purpose-built type XIV supply boats, the “milk cows”, which were already fuelling U-boats in the western Atlantic? The diary does not say. The milk cows carried diesel for other U-boats; they were few, and every one of them was needed."
+   ],
+   "quotes": [
+    {
+     "text": "The effect on submarine warfare would be equivalent to the cancellation of 2 missions during which 60,000 to 80,000 GRT of enemy shipping could be sunk. The submarines type IXc which are in western France are scheduled to be assigned to the Capetown mission.",
+     "cite": { "href": "#/file/k225", "label": "War Diary of the German Naval Staff, 16 July 1942, pp. 224–225" }
+    }
+   ],
+   "facsimiles": [],
+   "plates": ["u505"],
+   "data": ["price"],
+   "sources": ["skl", "laconia", "uboatlit"]
+  },
+  {
+   "id": "base1",
+   "n": 6,
+   "date": "17 July 1942",
+   "part": "II. The raid, July 1942",
+   "title": "Base 1, 1,000 km off the enemy coast",
+   "lede": "The next day the Luftwaffe's Quartermaster General explained the procedure: land at sea beside a U-boat, refuel by two hoses, take off again at dusk.",
+   "body": [
+    "The entry for 17 July is the only description of how the raid was to be flown. The flying boats would leave France with an extra load and wait for the go-ahead from Base 1, which needed a naval meteorologist to judge the sea. They would land beside the U-boat and take fuel through two hose lines, which would take one and a half to two hours. They would take off again at dusk, fly to New York in the dark, and come home, refuelling if necessary at Base 2 north of the Azores. Loading ammunition from a U-boat was ruled out.",
+    "Base 1 lies “1000 km. off the enemy coast”. The phrase can be read two ways. If the coast is New York's, the base lies about 1,000 km east of the city, but only some 560 km from Nova Scotia and 770 km from Bermuda, where American and Canadian patrol aircraft were based. If it means 1,000 km from any enemy coast, the base is safe from shore-based aircraft, but some 1,700 km from New York: six hours' flight to the city in the dark, and then 3,700 km more to Base 2, close to the limit of the aircraft's range.",
+    "Base 2 has the same problem. The entry of 16 July puts it 3,000 km from the enemy coast; that of 17 July “north of the Azores”, which lies about 3,700 km from New York. This study takes the later and more specific entry, and the map shows both readings of Base 1.",
+    "A flying boat 37 metres long lying on the surface for two hours beside a U-boat, in waters patrolled from the air, was the weakest point of the plan. The nearer the base to New York, the shorter the night flight and the greater that risk."
+   ],
+   "quotes": [
+    {
+     "text": "The planes will start out with an extra load upon the go-ahead signal from base 1 (1000 km. off the enemy coast). A Navy metereologist is requested for that base. The planes will then land at base 1 and refuel from two hose lines. This procedure is estimated to take about 1 1/2 to 2 hours. They will start again at dusk in order to carry out their mission. Upon its completion they will head for home, refuelling, if necessary, at base 2 in the area north of the Azores.",
+     "cite": { "href": "#/file/k240", "label": "War Diary of the German Naval Staff, 17 July 1942, p. 240" }
+    }
+   ],
+   "facsimiles": [
+    { "src": "assets/file/k240-procedure.jpg", "href": "#/file/k240", "caption": "17 July 1942: the procedure." }
+   ],
+   "plates": [],
+   "data": ["map"],
+   "decisions": [
+    {
+     "key": "base1",
+     "prompt": "Where does the U-boat for Base 1 wait?",
+     "file": "ny1000",
+     "options": [
+      { "value": "ny1000", "label": "1,000 km from New York", "detail": "The plain reading of the file. About 3½ hours to the city; within reach of patrols from Nova Scotia and Bermuda." },
+      { "value": "coast1000", "label": "1,000 km from any enemy coast", "detail": "The cautious reading. Out of reach of shore-based patrols, but six hours to New York, and some 5,400 km from Base 1 to Base 2: close to the limit of the aircraft's range." },
+      { "value": "ny600", "label": "Closer: 600 km from New York", "detail": "Not in the file. A short night flight, but the U-boat and the flying boat lie on the surface within the patrol zone." }
+     ],
+     "fileNote": "The file says “1000 km. off the enemy coast”; the study takes the plain reading for the file's plan and lets you try the others."
+    }
+   ],
+   "sources": ["skl"]
+  },
+  {
+   "id": "ready",
+   "n": 7,
+   "date": "17 July 1942",
+   "part": "II. The raid, July 1942",
+   "title": "Not before 10 September",
+   "lede": "One plane or two, and when: on 17 July both questions were still open.",
+   "body": [
+    "“The planes will not be ready to take off before 10 Sep. No decision has as yet been reached as to whether 1 or 2 planes will participate in the operation. The final order of the Commander in Chief, Air Force to carry out the plan is likewise still to be received.” The day before, the plan had spoken of two flying boats; now even that was uncertain.",
+    "The date suited a night attack. In 1942 the new moon fell on about 10 September and again about 10 October. The darkest nights were best for an aircraft that had to cross the coast unseen; they were also the nights in which the crew would have most difficulty finding a darkened city and a U-boat on the open sea.",
+    "September offered calmer seas for landing beside a U-boat; October offered a longer night, about twelve and a half hours against eleven and a half, but the autumn gales were beginning. A flying boat could not take fuel by hose in a heavy swell. The file does not discuss the weather at all, apart from asking for a meteorologist.",
+    "Two aircraft doubled the chance that one would reach New York, and doubled the number of men at risk: each BV 222 carried a crew of about eleven. The file never says what the aircraft were to drop. It mentions ammunition, which could not be taken from the U-boat, and an extra load at the start. The study assumes about one tonne of bombs for each aircraft."
+   ],
+   "quotes": [
+    {
+     "text": "The planes will not be ready to take off before 10 Sep. No decision has as yet been reached as to whether 1 or 2 planes will participate in the operation. The final order of the Commander in Chief, Air Force to carry out the plan is likewise still to be received.",
+     "cite": { "href": "#/file/k240", "label": "War Diary of the German Naval Staff, 17 July 1942, p. 240" }
+    }
+   ],
+   "facsimiles": [],
+   "plates": [],
+   "data": ["chain"],
+   "decisions": [
+    {
+     "key": "planes",
+     "prompt": "One flying boat or two?",
+     "file": "2",
+     "options": [
+      { "value": "1", "label": "One", "detail": "One crew of eleven at risk; one tonne of bombs if it gets through." },
+      { "value": "2", "label": "Two", "detail": "As planned on 16 July. Twice the chance that something reaches New York, twice the crews, and both have to share the U-boats' fuel." }
+     ],
+     "fileNote": "Two on 16 July; “1 or 2” on 17 July. The file's plan here uses two."
+    },
+    {
+     "key": "when",
+     "prompt": "When?",
+     "file": "sep",
+     "options": [
+      { "value": "sep", "label": "As soon as ready: the new-moon nights after 10 September", "detail": "Calmer seas at Base 1, a night of about 11½ hours." },
+      { "value": "oct", "label": "A month later: the new-moon nights after 10 October", "detail": "A night of about 12½ hours, but fewer days calm enough to land and refuel at sea." }
+     ],
+     "fileNote": "“Not before 10 Sep.”"
+    }
+   ],
+   "sources": ["skl", "moon"]
+  },
+  {
+   "id": "declined",
+   "n": 8,
+   "date": "28 July 1942",
+   "part": "II. The raid, July 1942",
+   "title": "“Declined”",
+   "lede": "Twelve days after the first entry, the war diary closed the matter in one sentence.",
+   "body": [
+    "“The Air Force General Staff declined to participate in operation “BV 222” (raid on New York).” The entry for 28 July gives no reason. Just before it, at the foot of the preceding page, the Naval Staff noted the probable loss of two more U-boats, one of them last heard of off Cape Hatteras; just after it come the Italian plans for holding the Alamein front.",
+    "The wording is precise. It was not Göring who refused, nor Hitler who withdrew his wish, but the General Staff of the Luftwaffe that declined to take part. Whether Göring ever gave the final order the Quartermaster General was waiting for, the file does not say. Nothing more about the raid appears in the Naval Staff's diary, nor in the war diary of the U-boat command, which never mentions it at all.",
+    "Later literature offers reasons without documents this study has seen. The few BV 222s were needed for the supply flights to North Africa, where the fighting at El Alamein was at its height. A larger plan of the Luftwaffe staff of spring 1942, for raids on American industry with four-engined landplanes, is said to have been dropped in August 1942 because the navy could not provide U-boats to pick up the crews. If so, the U-boats were again the deciding item.",
+    "In the playable study you may decide otherwise, and have the Fuehrer's headquarters overrule the General Staff. That is the only way the raid is flown."
+   ],
+   "quotes": [
+    {
+     "text": "The Air Force General Staff declined to participate in operation \"BV 222\" (raid on New York).",
+     "cite": { "href": "#/file/k351", "label": "War Diary of the German Naval Staff, 28 July 1942, p. 351" }
+    }
+   ],
+   "facsimiles": [
+    { "src": "assets/file/k351-declined.jpg", "href": "#/file/k351", "caption": "28 July 1942: “declined”." }
+   ],
+   "plates": [],
+   "data": [],
+   "decisions": [
+    {
+     "key": "final",
+     "prompt": "The Air Force General Staff declines. Does the matter rest there?",
+     "file": "accept",
+     "options": [
+      { "value": "accept", "label": "Let it rest", "detail": "As in the file. The boats go back to the war on shipping." },
+      { "value": "press", "label": "The Fuehrer's headquarters overrules the General Staff", "detail": "Not in the file. The raid is flown as planned, with your choices." }
+     ],
+     "fileNote": "The matter rests. The diary never mentions the raid again."
+    }
+   ],
+   "sources": ["skl", "bdu", "amerikabomber"]
+  },
+  {
+   "id": "newyork",
+   "n": 9,
+   "date": "1942",
+   "part": "III. The city and the fear",
+   "title": "New York, 1942",
+   "lede": "The file names New York once and never describes it. In 1942 it was a city of seven and a half million people, at war, dimmed at night, with U-boats off its coast.",
+   "body": [
+    "At the census of 1940 New York City had 7,454,995 inhabitants. About two million of them were Jewish, by the estimates of the American Jewish Year Book: the largest Jewish community in the world. Since 1933 tens of thousands of refugees from Germany and Austria had come to the city; so many settled in Washington Heights, at the northern end of Manhattan, that it was called the “Fourth Reich” or “Frankfurt on the Hudson”. Many still had parents, brothers and sisters in Germany, who in the summer of 1942 were being deported.",
+    "The war had reached the city's doorstep in January 1942, when U-boats began sinking ships within sight of the American coast. Tankers burned off New Jersey and Long Island. In the spring the Army's Eastern Defense Command ordered a dim-out of the coastal cities, because ships were silhouetted against the glow of the shore. Times Square went dark at night; shop windows, street lights and the lights of cars were shaded. Air raid wardens held drills. The Mayor, Fiorello La Guardia, had been the national director of civilian defence until early 1942.",
+    "This is what two flying boats would have found: no lights to steer by, a coast they could not miss, and a city so large that any bomb would hit something. The study assumes about one tonne of bombs for each aircraft. Six weeks before the Naval Staff's entry, the RAF had dropped some 1,455 tons on Cologne in a single night. A raid on New York could not have harmed the American war effort. It could have killed people in their homes, and it would have been a symbol.",
+    "The file counts none of them. Its arithmetic is tons of shipping, hose lines and kilometres. The people of New York appear in this study because they do not appear in the file."
+   ],
+   "quotes": [],
+   "facsimiles": [],
+   "plates": ["dimout", "warden", "lowereast"],
+   "data": ["city"],
+   "sources": ["census", "ajyb", "dimout", "owi"]
+  },
+  {
+   "id": "legend",
+   "n": 10,
+   "date": "1944–45",
+   "part": "III. The city and the fear",
+   "title": "Legend and fear",
+   "lede": "No German aircraft ever bombed New York. But the idea survived the plan, as a legend on one side and as fear on the other, and the fear cost lives.",
+   "body": [
+    "After the war a story spread that in 1944 a six-engined Junkers Ju 390 had flown from France to within some 20 km of the American coast north of New York and returned, taking photographs. It goes back to a British interrogation report of 1944 and was repeated in magazines and books for decades. It is not true: only one Ju 390 ever flew, and not across the Atlantic; the second aircraft, which the story needs, was never completed, and the type's test pilot denied the flight. The legend shows how much the idea of a German aircraft over New York was wanted, after the fact.",
+    "On the American side it was feared. In November 1944 the U-boat U-1230 landed two agents, William Colepaugh and Erich Gimpel, on the coast of Maine in Operation “Elster”; they were arrested in New York in December. Rumours of U-boats armed with V-weapons reached the US Navy. On 8 January 1945 Admiral Jonas Ingersoll, commanding the Atlantic Fleet, told the press that robot bomb attacks on the East Coast were possible.",
+    "In April 1945, when seven U-boats crossed the Atlantic towards the American coast, the US Navy sent two great barriers of escort carriers and destroyer escorts against them: Operation Teardrop. Five of the boats were sunk between 15 April and 6 May 1945. On 24 April U-546 torpedoed the destroyer escort Frederick C. Davis, which sank with some 115 of her crew; U-546 was sunk the same day. Of the five U-boat crews 241 men died; 33 men of U-546 survived and were interrogated about rockets.",
+    "None of the boats carried rockets. A German project to tow V-2 rockets across the sea in containers behind U-boats got no further than the building of the first containers; it never reached the Atlantic. The last attack on New York that the German leadership had wished for, in 1938, in 1940 and in July 1942, ended as a hunt for a weapon that did not exist, in the last three weeks of the war."
+   ],
+   "quotes": [],
+   "facsimiles": [],
+   "plates": ["fcdavis", "u546"],
+   "data": ["teardrop"],
+   "sources": ["ju390", "elster", "ingersoll", "teardrop", "u546"]
+  }
+ ]
+}
