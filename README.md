@@ -4,7 +4,7 @@
 
 **Live:** https://two-flying-boats-1942.netlify.app/ · **On itch.io:** https://leofassb.itch.io/two-flying-boats-1942
 
-Read it as a dossier, or take the Naval Staff's seat and decide where the file decides; a model then runs the raid with the file's figures and named assumptions. Third in a series with [Iron Hammer, 1945](https://iron-hammer-1945.netlify.app/) and [Dragon's Lair, 1944–45](https://dragons-lair-1944-45.netlify.app/).
+Read it as a dossier, or take the Naval Staff's seat and decide where the file decides; a model then runs the raid with the file's figures and named assumptions. Third in a series with [Iron Hammer, 1945](https://iron-hammer-1945.netlify.app/) and [Dragon's Lair, 1944–45](https://dragons-lair-1944-45.netlify.app/); continued in [Ten Seiran, 1945](https://ten-seiran-1945.netlify.app/), the Axis and the Panama Canal.
 
 ## Sources
 
